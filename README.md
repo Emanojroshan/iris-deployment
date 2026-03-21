@@ -109,7 +109,7 @@ http://127.0.0.1:5000/
 
 ## 📸 Application Preview
 
-https://github.com/Emanojroshan/iris-deployment/blob/b17d23ca7b7d1203b083a86489c772adde7f1a35/screenshots/output.mp4
+(https://github.com/Emanojroshan/iris-deployment/blob/568c4e7fec14fd520adf0a1771410d99a995616d/screenshots/output1.png)
 
 ---
 
