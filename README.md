@@ -62,9 +62,7 @@ iris-deployment/
 ├── templates/              # HTML templates
 │   ├── home.html
 │   └── result.html
-│
-└── static/                 # Static assets (CSS)
-    └── style.css
+
 ```
 
 ---
@@ -100,10 +98,6 @@ http://127.0.0.1:5000/
 
 ---
 
-## 🌐 Live Demo
-
-🚀 *Deployed Application:*
-(Add your live deployment link here)
 
 ---
 
